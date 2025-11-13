@@ -31,3 +31,9 @@ def multiply(x, y):
     return x * y
 
 result = multiply(20,30)
+
+def divide(x, y):
+    if y != 0:
+        return x / y
+    else:
+        return "Error! Division by zero."
