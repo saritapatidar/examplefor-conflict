@@ -23,6 +23,7 @@ print("The maximum of a and b is:", l)
 m=min(a,b)
 print("The minimum of a and b is:", m)
 n=abs(a+b)
+n=abs(a+b)
 print("The absolute difference between a and b is:", n)
 
 
