@@ -23,9 +23,11 @@ print("The maximum of a and b is:", l)
 m=min(a,b)
 print("The minimum of a and b is:", m)
 n=abs(a+b)
+n=abs(a+b)
 print("The absolute difference between a and b is:", n)
 
-def multiplys(x, y):
+
+def multiply(x, y):
     return x * y
 
-result = multiplys(20,30)
+result = multiply(20,30)
