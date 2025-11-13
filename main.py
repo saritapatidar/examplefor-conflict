@@ -24,3 +24,8 @@ m=min(a,b)
 print("The minimum of a and b is:", m)
 n=abs(a-b)
 print("The absolute difference between a and b is:", n)
+
+def multiplys(x, y):
+    return x * y
+
+result = multiplys(20,30)
